@@ -1,6 +1,6 @@
 {
   "name": "co-rongcloud-api",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "融云服务端Node库API，ES6版本",
   "main": "index.js",
   "scripts": {

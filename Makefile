@@ -20,7 +20,4 @@ test-coveralls:
 
 test-all: test test-coveralls
 
-dox: 
-	@doxmate build
-
 .PHONY: test
